@@ -6,7 +6,7 @@
 #---------------------------------------------------------------
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp; Worked for about 1 year as a Blockchain Developer, but now currently working as a Front end Developer at [Blockchain One](https://blockchainone.com.br/) and I'm Computer Science Student at [UECE](http://www.uece.br/)\
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp; I've worked for about a year as a Blockchain Developer, but now currently working as a Front end Developer at [Blockchain One](https://blockchainone.com.br/) and I'm Computer Science Student at [UECE](http://www.uece.br/)\
 &nbsp;&nbsp;&nbsp;:computer: &nbsp;Love for technology, creation and innovation.\
 &nbsp;&nbsp;&nbsp;🧮 &nbsp;Passionate with problem solving and daily routines automation.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2020 with 1+ years of experience with software development.\
