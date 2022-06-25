@@ -3,7 +3,7 @@
         <img src="./alt/hello.gif" width="60" title='Hello'>
     </h1>
 </div>
-#---------------------------------------------------------------
+
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp; I've worked for about a year as a Blockchain Developer, but now currently working as a Front end Developer at [Blockchain One](https://blockchainone.com.br/) and I'm Computer Science Student at [UECE](http://www.uece.br/)\
