@@ -13,7 +13,7 @@
 ```javascript
 const toinho = {
   pronouns: "he" | "him",
-  country: "Brazil".
+  country: "Brazil",
   languages: ["Portuguese", "English"],
   code: [NodeJS, Typescript, Html, Css, Javascript, Python, Php, Solidity],
   tools: [React, Node, Styled-Components, Web3, Mysql, Posgres, VScode, Github, Git, MongoDB],
