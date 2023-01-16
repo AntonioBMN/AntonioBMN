@@ -18,7 +18,7 @@ const toinho = {
   code: [NodeJS, Typescript, Html, Css, Javascript, Python, Php, Solidity],
   tools: [React, Node, Styled-Components, Web3, Mysql, Posgres, VScode, Github, Git, MongoDB],
   architecture: ["microservices", "Model–view–controller"],
-  age: "20yo"
+  age: "22yo"
 }
 ```
 
